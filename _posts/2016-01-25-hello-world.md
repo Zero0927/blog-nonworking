@@ -8,4 +8,4 @@ comments: true
 ---
 
 Hello World~
-This is a first page for this website.
+This is a first post for this website.
