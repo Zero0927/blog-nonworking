@@ -1,0 +1,28 @@
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: redcarpet
+encoding: utf-8
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: K's Journey
+
+description: Scott Zhou's website
+author:
+  name: Scott Zhou
+  email: zhouscott@hotmail.com
+  github: godofhand
+  linkedin: siyuan zhou
+  bio: Scott Zhou's website
+  email_md5: 2baf659d886c56f600e3df8b4b9068f1
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
