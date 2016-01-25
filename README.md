@@ -1,2 +1,2 @@
-# godofhand.github.io
+# http://siyuanzhou.com
 Personal website for Scott Zhou
