@@ -10,9 +10,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Scott Zhou's territory
+      title: Scott Zhou's website
 
-description: Scott Zhou's website
+description: Get it done, on time spirit.
 author:
   name: Scott Zhou
   email: zhouscott@hotmail.com
