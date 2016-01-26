@@ -10,7 +10,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Scott Zhou's website
+      title: Never say never
 
 description: Passionate about coding.
 author:
