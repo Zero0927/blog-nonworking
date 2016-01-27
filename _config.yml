@@ -10,7 +10,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Never say never
+      title: This geek
 
 description: Passionate about coding.
 author:
