@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compressed Literature
+title: Compressed Literature2
 fullview: true
 categories: [Java]
 tags: [Java, Individual project, Data Structure]
