@@ -9,4 +9,4 @@ comments: true
 
 
 I've update my custom domain. You can now visit this site from siyuanzhou.com.
-I am going to start upload my school work.
+I will start using this blog to keep track my works and post some brainstorms.
