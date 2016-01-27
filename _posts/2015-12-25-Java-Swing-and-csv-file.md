@@ -10,4 +10,4 @@ tags: [Group project, Java Swing, CSV file, GUI]
 
 <a class="btn btn-default" href="https://github.com/godofhand/TCSS-360-group-project">Check our code here</a>
 
-You may also visit our team [website](http://godofhand.github.io/Code-Surgeons)
+<a class="btn btn-default" href="http://godofhand.github.io/Code-Surgeons">You may also visit our team website</a>
