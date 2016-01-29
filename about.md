@@ -1,14 +1,24 @@
 ---
 layout: page
-title: About
+title: A little about me
 ---
 
-<img src="https://www.cs.utexas.edu/users/downing/images/Profile2012.jpg" style="width: 600px">
+ <br><br>         
+<img src="http://memesvault.com/wp-content/uploads/Meme-Faces-Challenge-Accepted-08.png" style="width: 400px">
+<br><br>
+<p>
+My name is Siyuan Zhou. You can call me Scott. I a senior student at University of Washington Tacoma and major in computer science. I will be graduate in March 2016.
+I love programming, it is so cool to see how I code will change the stuff behind computer and become part of it to contribute the process to evolve future technology.
+I have excellent time management skill. I always got things done on time. I facilite my team mate to solve problem and meet all the design criterias.
+</p>
 
-I did my undergraduate work at [Purdue](http://www.purdue.edu/) and [Illinois](http://www.uiuc.edu/) and my graduate work at [MIT](http://www.mit.edu/), [Stanford](http://www.stanford.edu/), and [Texas](http://www.utexas.edu/).
+<p>
+I raised up in China and moved to Seattle when I was 18. Soon after I fail in love with this city. It is not too big and not too small.
+The culture of this city dramatically attract me- a city of coffee. I start making coffee at home.
+</p>
 
-I've worked at the [Jet Propulsion Laboratory (JPL)](http://www.jpl.nasa.gov), [Los Alamos National Laboratory](http://www.lanl.gov), and [Microelectronics and Computer Technology Corporation (MCC)](http://en.wikipedia.org/wiki/Microelectronics_and_Computer_Technology_Corporation).
+<p>
+I have all different kinds of hobbies: camping, hiking, piano, gaming, board game etc... I like to meet new people, especially with like-minded people.
+</p>
 
-Both of my parents were born and raised in Granada, Nicaragua. I was born in New York and grew up in Miami. My wife was born and raised in Managua, Nicaragua. She did her undergraduate work at [Tufts](http://www.tufts.edu/) and her graduate work at [Salamanca](http://www.usal.es/) and [Texas](http://www.utexas.edu/), worked at the [Vaughn Gross Center for Reading and Language Arts](http://www.meadowscenter.org/vgc/), and is now an independent consultant.
-
-[https://www.cs.utexas.edu/users/downing/](http://www.cs.utexas.edu/users/downing/)
+<h3>My goal in programming is ONLY COMPILE ONCE!</h3>
