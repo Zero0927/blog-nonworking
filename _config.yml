@@ -10,7 +10,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Geek
+      title: Geek Spot
 
 description: Passionate about coding.
 author:
@@ -18,7 +18,7 @@ author:
   email: zhouscott@hotmail.com
   github: godofhand
   linkedin: siyuanzhou
-  bio:  I’ve finally learned what ‘upward compatible’ means.  It means we get to keep all our old mistakes.
+  bio:  I’ve finally learned what "upward compatible" means.  It means we get to keep all our old mistakes.
 
 
 #rss_path: feed.xml
