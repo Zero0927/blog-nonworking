@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Prolog Excersice
+title: Prolog Exercise
 fullview: true
 categories: [Prolog]
-tags: [Prolog, Excersice]
+tags: [Prolog, Exercise]
 ---
 First exercise for Prolog and logical programming language.
 
