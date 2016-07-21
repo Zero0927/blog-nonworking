@@ -3,7 +3,7 @@ layout: post
 title: Web Crawler
 fullview: true
 categories: [Python]
-tags: [Python, have fun]
+tags: [Python]
 ---
 Build web crawler with Python, Having fun with it. 
 
