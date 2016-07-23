@@ -1,5 +1,5 @@
-Personal Website
+Personal Blog
 ==========
-This is the personal website for Scott Zhou.
+This is personal blog for Scott Zhou.
 
 
